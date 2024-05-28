@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "HTML",
+    "level": "100",
+    "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.",
+    "iconName": "faHtml5"
+  },
+  {
+    "id": "2",
+    "name": "CSS",
+    "level": "90",
+    "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.",
+    "iconName": "faCss3Alt"
+  },
+  {
+    "id": "3",
+    "name": "JavaScript",
+    "level": "80",
+    "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.",
+    "iconName": "faJsSquare"
+  },
+  {
+    "id": "4",
+    "name": "TypeScript",
+    "level": "70",
+    "desc": "TypeScript skills in the areas of JavaScript and especially React to ensure type safety",
+    "iconName": "faSquare"
+  },
+  {
+    "id": "5",
+    "name": "React",
+    "level": "85",
+    "desc": "lorem ipsum",
+    "iconName": "faReact"
+  },
+  {
+    "id": "6",
+    "name": "Adobe Xd",
+    "level": "95",
+    "desc": "Expertise in the creation of high-fidelity, interactive prototypes for Android, iOS, SAPUI5 and React Web Apps based on the corresponding guidelines",
+    "iconName": "faSquare"
+  },
+  {
+    "id": "7",
+    "name": "Power BI",
+    "level": "85",
+    "desc": "Defining and creating database structures, analysing data using DAX (Data Analysis Expressions), creating data reports and designing interactive dashboards for data visualisation",
+    "iconName": "faSquarePollVertical"
+  },
+  {
+    "id": "8",
+    "name": "MS Office",
+    "level": "80",
+    "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.",
+    "iconName": "faMicrosoft"
+  }
+]

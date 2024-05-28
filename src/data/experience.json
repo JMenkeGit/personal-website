@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "index": 1,
+    "name": "Customer Workshops",
+    "desc": "In collaboration with customers, I have designed various concepts for SAPUI5 solutions, websites and mobile applications for Android and iOS in multiple workshops.",
+    "iconName": "faPeopleGroup"
+  },
+  {
+    "id": "2",
+    "index": 2,
+    "name": "Conception",
+    "desc": "I design creative solutions with individual customer requirements as an important step between the requirement analysis and the designing process.",
+    "iconName": "faLightbulb"
+  },
+  {
+    "id": "3",
+    "index": 3,
+    "name": "UX/UI-Design",
+    "desc": "As a UX/UI designer, I create digital experiences that are visually appealing, functional and easy to use. Understanding user needs and combining it with intuitive design, I strive to enhance usability and user satisfaction.",
+    "iconName": "faPen"
+  },
+  {
+    "id": "4",
+    "index": 4,
+    "name": "Interactive prototyping",
+    "desc": "I use Adobe Xd to design high-fidelity, comprehensive and interactive prototypes. These provide not only the basis for customer meetings but also the development template for the implementation of the application.",
+    "iconName": "faComputerMouse"
+  },
+  {
+    "id": "5",
+    "index": 5,
+    "name": "Web Dev",
+    "desc": "In addition to designing, I also develop responsive websites for all screen sizes. I develop solutions using HTML, CSS, JavaScript, TypeScript and React, as well as additional frameworks such as Primereact, Bootstrap, Tailwind etc.",
+    "iconName": "faLaptopCode"
+  },
+  {
+    "id": "6",
+    "index": 6,
+    "name": "Data analysis",
+    "desc": "With Microsoft Power BI, I design data models, create databases and carry out data modelling and analyses, which are presented in a visually appealing and interactive way using reports and dashboards.",
+    "iconName": "faChartPie"
+  }
+]

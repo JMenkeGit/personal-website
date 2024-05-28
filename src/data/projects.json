@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1",
+    "index": 0,
+    "projectName": "Web app for electronic data interchange",
+    "projectNameShort": "EDI",
+    "role": "Conzeption, Design, Prototyping, Web Developer",
+    "industry": "Interbranch",
+    "duties": [
+      "Requirements analysis",
+      "UX/UI application design",
+      "Interactive web prototype",
+      "Front-end web development with React and Typescript"
+    ]
+  },
+  {
+    "id": "2",
+    "index": 1,
+    "projectName": "Product configuration tools",
+    "projectNameShort": "Configurator",
+    "role": "Conzeption, Design, Prototyping",
+    "industry": "Outdoor Advertising",
+    "duties": [
+      "Customer Workshops",
+      "Requirements analysis",
+      "UX/UI application design",
+      "Multiple extensive SAPUI5 prototypes with sample data sets"
+    ]
+  },
+  {
+    "id": "3",
+    "index": 2,
+    "projectName": "Internal mobile app for e-vehicle management",
+    "projectNameShort": "E-car",
+    "role": "Conception, design, prototyping",
+    "industry": "Internal",
+    "duties": [
+      "Requirements analysis",
+      "UX/UI application design",
+      "Creation of an iOS Prototype"
+    ]
+  },
+  {
+    "id": "4",
+    "index": 3,
+    "projectName": "Enterprise Resource Planning System",
+    "projectNameShort": "ERP",
+    "role": "Conception, design, prototyping",
+    "industry": "Electrical Engineering",
+    "duties": [
+      "Customer Workshops",
+      "Requirements analysis",
+      "UX/UI application design",
+      "More than 20 SAPUI5 prototypes with sample data sets"
+    ]
+  },
+  {
+    "id": "5",
+    "index": 4,
+    "projectName": "Room booking application",
+    "projectNameShort": "Room booking",
+    "role": "Conception, design, prototyping",
+    "industry": "Internal",
+    "duties": [
+      "Requirements analysis and conception",
+      "Design of a wireframe web prototype for room reservations"
+    ]
+  },
+  {
+    "id": "6",
+    "index": 5,
+    "projectName": "Logistic application system for different platforms",
+    "projectNameShort": "Logistics",
+    "role": "Conception, design, prototyping",
+    "industry": "Mobility",
+    "duties": [
+      "Customer workshops & requirements analysis",
+      "Conception, design and prototyping for a SAPUI5 cloud solutions",
+      "Conception, design and prototyping for an internal application",
+      "Conception, design and prototyping for a mobile web app"
+    ]
+  },
+  {
+    "id": "7",
+    "index": 6,
+    "projectName": "Sales SAPUI5 application",
+    "projectNameShort": "Sales",
+    "role": "Conception, Design, Prototyping",
+    "industry": "Agriculture",
+    "duties": [
+      "Customer Workshops",
+      "Requirements analysis",
+      "UX/UI application design",
+      "Extensive SAPUI5 prototype with sample data sets"
+    ]
+  },
+  {
+    "id": "8",
+    "index": 7,
+    "projectName": "Android application for the storage of chemicals",
+    "projectNameShort": "Chemicals",
+    "role": "Prototyping",
+    "industry": "Chemicals",
+    "duties": [
+      "Design of an Android prototype based on an existing iOS prototype",
+      "Android UX/UI guidelines"
+    ]
+  },
+  {
+    "id": "9",
+    "index": 8,
+    "projectName": "Data analysis and visualisation dashboards",
+    "projectNameShort": "Data analysis",
+    "role": "Power BI developer",
+    "industry": "Internal",
+    "duties": [
+      "Definition of data structures",
+      "Data modeling in Power BI",
+      "Design reports and dashboards",
+      "Analytical evaluations with DAX measures"
+    ]
+  }
+]
