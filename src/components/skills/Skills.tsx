@@ -1,6 +1,5 @@
 import { FC } from 'react'
 
-import { faLightbulb, faPen } from '@fortawesome/free-solid-svg-icons'
 import {
   faCss3Alt,
   faHtml5,
