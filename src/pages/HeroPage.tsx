@@ -27,19 +27,31 @@ const HeroPage: FC = () => {
           <div className='contact-container'>
             {/* LinkedIn */}
             <div>
-              <a href='https://www.linkedin.com/in/jacqueline-menke-0b786b246/'>
+              <a
+                href='https://www.linkedin.com/in/jacqueline-menke-0b786b246/'
+                target='_blank'
+                rel='noreferrer'
+              >
                 <FontAwesomeIcon icon={faLinkedin} className='contact-icon' />
               </a>
             </div>
             {/* Xing */}
             <div>
-              <a href='https://www.xing.com/profile/Jacqueline_Menke090723/web_profiles'>
+              <a
+                href='https://www.xing.com/profile/Jacqueline_Menke090723/web_profiles'
+                target='_blank'
+                rel='noreferrer'
+              >
                 <FontAwesomeIcon icon={faSquareXing} className='contact-icon' />
               </a>
             </div>
             {/* Github */}
             <div>
-              <a href='https://github.com/JMenkeGit'>
+              <a
+                href='https://github.com/JMenkeGit'
+                target='_blank'
+                rel='noreferrer'
+              >
                 <FontAwesomeIcon
                   icon={faSquareGithub}
                   className='contact-icon'
