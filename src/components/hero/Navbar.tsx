@@ -17,7 +17,7 @@ const Navbar: FC = () => {
           <span>skills</span>
         </a>
         <a href='#projects' className='nav-link'>
-          <span>work projects</span>
+          <span>projects</span>
         </a>
       </div>
     </nav>
