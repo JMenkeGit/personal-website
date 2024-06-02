@@ -7,8 +7,8 @@ import SectionTitle from '../components/general/SectionTitle'
 
 const AboutPage: FC = () => {
   return (
-    <section>
-      <div className='section-center' id='about'>
+    <section id='about'>
+      <div className='section-center'>
         <SectionTitle title='about' />
         <div className='about-container'>
           <article>
