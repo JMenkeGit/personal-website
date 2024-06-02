@@ -32,7 +32,7 @@ const Navbar: FC = () => {
           href='https://jacqueline-menke.netlify.app/#projects'
           className='nav-link'
         >
-          <span>work projects</span>
+          <span>projects</span>
         </a>
       </div>
     </nav>
