@@ -28,7 +28,7 @@ const AboutPage: FC = () => {
                 <br />
                 I specialize in crafting user-centric designs that not only look
                 great but also enhance usability and engagement. With a keen eye
-                for detail and a deep understanding of user behavior. I bring
+                for detail and a deep understanding of user behavior, I bring
                 creativity, technical expertise, and a collaborative spirit to
                 every project.
                 <br />
