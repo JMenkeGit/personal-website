@@ -4,13 +4,13 @@
     "index": 0,
     "projectName": "Web app for electronic data interchange",
     "projectNameShort": "EDI",
-    "role": "Conzeption, Design, Prototyping, Web Developer",
+    "role": "Conception, design, prototyping, web development",
     "industry": "Interbranch",
     "duties": [
       "Requirements analysis",
       "UX/UI application design",
       "Interactive web prototype",
-      "Front-end web development with React and Typescript"
+      "Front-end web development with React and TypeScript"
     ]
   },
   {
@@ -18,10 +18,10 @@
     "index": 1,
     "projectName": "Product configuration tools",
     "projectNameShort": "Configurator",
-    "role": "Conzeption, Design, Prototyping",
-    "industry": "Outdoor Advertising",
+    "role": "Conception, design, prototyping",
+    "industry": "Outdoor advertising",
     "duties": [
-      "Customer Workshops",
+      "Customer workshops",
       "Requirements analysis",
       "UX/UI application design",
       "Multiple extensive SAPUI5 prototypes with sample data sets"
@@ -43,12 +43,12 @@
   {
     "id": "4",
     "index": 3,
-    "projectName": "Enterprise Resource Planning System",
+    "projectName": "Enterprise resource planning system",
     "projectNameShort": "ERP",
     "role": "Conception, design, prototyping",
-    "industry": "Electrical Engineering",
+    "industry": "Electrical engineering",
     "duties": [
-      "Customer Workshops",
+      "Customer workshops",
       "Requirements analysis",
       "UX/UI application design",
       "More than 20 SAPUI5 prototypes with sample data sets"
@@ -85,10 +85,10 @@
     "index": 6,
     "projectName": "Sales SAPUI5 application",
     "projectNameShort": "Sales",
-    "role": "Conception, Design, Prototyping",
+    "role": "Conception, design, prototyping",
     "industry": "Agriculture",
     "duties": [
-      "Customer Workshops",
+      "Customer workshops",
       "Requirements analysis",
       "UX/UI application design",
       "Extensive SAPUI5 prototype with sample data sets"
