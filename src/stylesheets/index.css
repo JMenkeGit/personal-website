@@ -5,6 +5,7 @@ body {
   --background-clr-dark: #222;
   --background-clr-nav: #2c2c2c;
   --experience-background: #333;
+  --experience-background-lighter: #3a3a3a;
   --background-clr-medium: #444;
   --background-clr-light: #666;
   --background-clr-lightest: #999;
@@ -305,8 +306,8 @@ a:active {
 }
 
 .experience:hover {
-  transform: scale(103%);
   box-shadow: var(--experience-dark-shadow);
+  background: var(--experience-background-lighter);
 }
 
 .experience:hover .experience-icon {
