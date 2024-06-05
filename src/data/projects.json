@@ -2,7 +2,7 @@
   {
     "id": "1",
     "index": 0,
-    "projectName": "Web app for electronic data interchange",
+    "projectName": "Web application for electronic data interchange",
     "projectNameShort": "EDI",
     "role": "Conception, design, prototyping, web development",
     "industry": "Interbranch",
@@ -30,7 +30,7 @@
   {
     "id": "3",
     "index": 2,
-    "projectName": "Internal mobile app for e-vehicle management",
+    "projectName": "Mobile application for e-vehicle management",
     "projectNameShort": "E-car",
     "role": "Conception, design, prototyping",
     "industry": "Internal",
