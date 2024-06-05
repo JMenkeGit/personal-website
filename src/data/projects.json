@@ -16,7 +16,7 @@
   {
     "id": "2",
     "index": 1,
-    "projectName": "Product configuration tools",
+    "projectName": "Product configuration applications",
     "projectNameShort": "Configurator",
     "role": "Conception, design, prototyping",
     "industry": "Outdoor advertising",
@@ -43,7 +43,7 @@
   {
     "id": "4",
     "index": 3,
-    "projectName": "Enterprise resource planning system",
+    "projectName": "SAPUI5 Enterprise resource planning system",
     "projectNameShort": "ERP",
     "role": "Conception, design, prototyping",
     "industry": "Electrical engineering",
